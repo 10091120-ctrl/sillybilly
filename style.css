@@ -1,0 +1,25 @@
+body {
+  background: yellow;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+   transition: 0.3s ease-in-out;
+  border-radius: 12px;
+}
+@media (min-width: 768px) {
+  img {
+    width: 35%;
+  }
+}
+
+
+img:hover {
+  transform: scale(1.5,1.5);
+}
+
+alt:meem {
+  
+}
