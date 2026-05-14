@@ -18,6 +18,7 @@ img {
 
 img:hover {
   transform: scale(1.4,1.4);
+  transform: translateY(-10)
 }
 
 alt:meem {
